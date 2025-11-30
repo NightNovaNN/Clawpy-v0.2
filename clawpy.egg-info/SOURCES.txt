@@ -1,0 +1,16 @@
+setup.py
+Clawpy/__init__.py
+Clawpy/advanced_math.py
+Clawpy/ai.py
+Clawpy/applied_math.py
+Clawpy/basic_math.py
+Clawpy/calculus.py
+Clawpy/left.py
+Clawpy/more.py
+Clawpy/other.py
+Clawpy/scientific.py
+clawpy.egg-info/PKG-INFO
+clawpy.egg-info/SOURCES.txt
+clawpy.egg-info/dependency_links.txt
+clawpy.egg-info/requires.txt
+clawpy.egg-info/top_level.txt

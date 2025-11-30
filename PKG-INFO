@@ -1,0 +1,126 @@
+Metadata-Version: 2.1
+Name: clawpy
+Version: 0.2
+Summary: ClawPy v0.2 — A high-performance scientific, mathematical, AI, and computational toolkit.
+Home-page: https://github.com/NightNovaNN/Clawpy
+Author: ISD NightNova
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# ClawPy v0.2
+
+**ClawPy** is a free, open-source Python framework that provides powerful tools for math, science, AI, graph theory, higher-dimensional geometry, signal processing, visualization, and more — all in one modular package.
+
+ClawPy aims to be:
+
+- **Simple**
+- **Lightweight**
+- **Extensible**
+- **Powerful**
+
+With pure Python modules and minimal dependencies, ClawPy serves developers, students, researchers, and hobbyists who need fast mathematical utilities without heavy frameworks.
+
+## Features
+
+### Mathematics
+
+- Basic & advanced math
+- Algebra, calculus, matrices, LU/QR decomposition
+- Combinatorics, prime math, symbolic solving
+- Higher-dimensional geometry (3D–4D–nD)
+
+### Science
+
+- Thermodynamics
+- Chemistry (molecular mass, reaction rates)
+- Quantum mechanics
+- Astronomy & Orbital physics
+
+### Machine Learning
+
+- Activation functions
+- Regression
+- Backpropagation
+- K-means clustering
+- _(NLP utilities coming soon)_
+
+### Visualization & Graph Theory
+
+- 4D tesseract animation
+- Perlin noise
+- Fractal dimension
+- Random graphs, Dijkstra’s algorithm, Eulerian path/circuit checking
+
+### Design
+
+- Clean modular structure
+- Easy imports
+- Pure Python — no compiled extensions
+
+## Installation
+
+Install ClawPy from PyPI:
+
+```bash
+pip install clawpy
+```
+
+## Quick Start
+
+```python
+from clawpy import BasicMath
+
+math_tools = BasicMath()
+print(math_tools.add(8, 5))      # 13
+print(math_tools.multiply(7, 6)) # 42
+print(math_tools.power(12, 2))   # 144
+```
+
+Using advanced modules:
+
+```python
+from clawpy import ScientificMath, Calculus
+
+science = ScientificMath()
+calc = Calculus()
+
+print(science.orbital_velocity(5.97e24, 6.37e6))
+print(calc.derivative(lambda x: x**3, 2))  # → 12
+```
+
+## Included Modules
+
+Core
+BasicMath
+AppliedMath
+AdvancedMath
+Calculus
+AI Tools
+AI (activations, regression, clustering)
+Higher Math & Geometry
+LeftMath
+MoreMath
+OtherMath
+Scientific Computing
+ScientificMath
+
+## Contributing
+
+ClawPy is fully open-source under the MIT License.
+Contributions, feature requests, bug fixes, and forks are welcome!
+
+## License
+
+Source code is licensed under the MIT License.
+See the LICENSE file for details.
+Note: “ClawPy”, “NightNovaNN”, the logo, slogans, branding and design marks are NOT covered by the MIT License.
+Use of the name requires explicit permission from ISD NightNova.
