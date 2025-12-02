@@ -118,3 +118,6 @@ See the `LICENSE` file for full details.
 
 **Note:**  
 “ClawPy”, “NightNovaNN”, the logo, branding, and design marks are **not** covered by the MIT License and require explicit permission from **ISD NightNova** for any usage.
+
+## Badge
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/clawpy?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/clawpy)
